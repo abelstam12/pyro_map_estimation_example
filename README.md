@@ -1,0 +1,1 @@
+# simple MAP estimation model in pyro using delta guide
